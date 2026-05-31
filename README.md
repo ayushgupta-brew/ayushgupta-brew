@@ -238,27 +238,6 @@ flowchart TB
 
 ---
 
-## 📊 **GitHub Performance Analytics**
-
-<div align="center">
-<!-- Row 1 -->
-<table width="100%">
-    <td width="65%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Brew-and-Bugs-with-Ayush&theme=tokyonight&hide_border=false" />
-    </td>
-</table>
-</div>
-
----
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Brew-and-Bugs-with-Ayush&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6" width="90%"/>
-<br/><br/>
-<img src="https://visitcount.itsvg.in/api?id=Brew-and-Bugs-with-Ayush&icon=4&color=3"/>
-</div>
-
----
-
 ## 🚧 What I'm Building Right Now
 
 <div align="center">

@@ -320,7 +320,7 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brew-and-Bugs-with-Ayush&bg_color=0D1117&color=38bdf8&line=38bdf8&point=FFFFFF&area=true&hide_border=true" width="75%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushgupta-brew&bg_color=0D1117&color=38bdf8&line=38bdf8&point=FFFFFF&area=true&hide_border=true" width="75%"/>
 
 </div>
 

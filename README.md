@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Backend Themed Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ayush%20Gupta&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Microservices%20%7C%20Spring%20Boot%20%7C%20System%20Design&descAlignY=55&descAlign=50&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ayush%20Gupta&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Microservices%20%7C%20Spring%20Boot%20%7C%20System%20Design&descAlignY=55&descAlign=50&descSize=18"/>
 
 <!-- Typing Animation with Backend Focus -->
 <p align="center">
@@ -11,14 +11,14 @@
 
 ---
 
-## 🎯 **About Me - Backend Architect**
+## 🎯 **About Me - Software Engineer**
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```java
 @Component
 @Profile("production")
-public class BackendEngineer {
+public class SoftwareEngineer {
     
     @Value("${engineer.name}")
     private String name = "Ayush Gupta";
@@ -209,7 +209,7 @@ flowchart TB
     DS["🌐 <b>Data Structures<br/>& Algorithms</b>"]:::design
 
     %% Core (Center)
-    BE(("🔥 <b>BACKEND<br/>ENGINEERING</b>")):::coreEngine
+    BE(("🔥 <b>SOFTWARE<br/>ENGINEERING</b>")):::coreEngine
 
     %% Bottom Layer (Execution)
     DATA[("🗄️ <b>Data & Events</b>")]:::storage
@@ -322,8 +322,13 @@ flowchart TB
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushgupta-brew&bg_color=0D1117&color=38bdf8&line=38bdf8&point=FFFFFF&area=true&hide_border=true" width="75%"/>
 
-</div>
+<br><br>
 
+<img src="https://github-readme-stats.shion.dev/api?username=ayushgupta-brew&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="40%"/>
+
+<img src="https://streak-stats.demolab.com/?user=ayushgupta-brew&theme=dark&hide_border=true" width="40%"/>
+
+</div>
 
 ---
 
@@ -347,9 +352,9 @@ flowchart TB
 
 ## ☕ **Fuel My Code Journey**
 <div align="center">
-  **If my code helped you, consider buying me a coffee!** ☕
+  If my code helped you, consider buying me a coffee! ☕
   <a href="https://www.buymeacoffee.com/codexayush04">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="110" />
   </a>
 </div>
 

@@ -58,7 +58,7 @@ public class SoftwareEngineer {
 ## 🌐 **Let's Connect & Collaborate**
 
 <div align="center">
-<a href="https://linkedin.com/in/ayush-gupta004">
+<a href="https://linkedin.com/in/ayushgupta004">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
 </a>
 &nbsp;&nbsp;&nbsp;

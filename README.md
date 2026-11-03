@@ -89,7 +89,6 @@ public class SoftwareEngineer {
 
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60"/>
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60"/>
-<img src="https://skillicons.dev/icons?i=html,css" height="60"/>
 
 </div>
 </details>
